@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Apr 17 13:54:16 2026
+# Process ID         : 40816
+# Current directory  : C:/Users/Subat/OneDrive/Documents/GitHub/Hardware-Robotic/verilog_challenge5/sequential_ch
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent41944 C:\Users\Subat\OneDrive\Documents\GitHub\Hardware-Robotic\verilog_challenge5\sequential_ch\sequential_ch.xpr
+# Log file           : C:/Users/Subat/OneDrive/Documents/GitHub/Hardware-Robotic/verilog_challenge5/sequential_ch/vivado.log
+# Journal file       : C:/Users/Subat/OneDrive/Documents/GitHub/Hardware-Robotic/verilog_challenge5/sequential_ch\vivado.jou
+# Running On         : WilliamY-LT
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 9 185H
+# CPU Frequency      : 3072 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 22
+# Host memory        : 68137 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 72432 MB
+# Available Virtual  : 41601 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Subat/OneDrive/Documents/GitHub/Hardware-Robotic/verilog_challenge5/sequential_ch/sequential_ch.xpr
+update_compile_order -fileset sources_1
